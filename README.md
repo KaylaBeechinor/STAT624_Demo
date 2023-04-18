@@ -1,2 +1,2 @@
 # STAT624_Demo
-stat 624 practice of GitHub
+stat 624 practice
